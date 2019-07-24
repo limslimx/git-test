@@ -6,4 +6,6 @@ int e=5;
 printf(a);
 printf(b);
 printf(c);
+
 printf(e);
+
